@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Coding Practice"
+    },
+    {
+      "id": "11",
+      "checked": true,
+      "item": "Restart"
+    },
+    {
+      "id": "111",
+      "checked": true,
+      "item": "Have Dinner"
+    },
+    {
+      "id": "1111",
+      "checked": true,
+      "item": "Productivity"
+    }
+  ]
+}
